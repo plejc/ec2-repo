@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'users',
     'cart',
+    'attendance'
 ]
 
 AUTH_USER_MODEL = 'users.CustomUser'
